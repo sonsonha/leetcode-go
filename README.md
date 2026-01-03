@@ -78,6 +78,6 @@ Problems involving tree data structures and tree traversal.
 ## Example
 
 To solve problem "Two Sum" (problem #1) which uses Hash Table pattern:
-- Directory: `problems/hash-table/0001-two-sum/`
+- Directory: `problems/hash-table/1-two-sum/`
 - Files: `solution.go` and `solution_test.go`
-- Run: `go test ./problems/hash-table/0001-two-sum`
+- Run: `go test ./problems/hash-table/1-two-sum`
